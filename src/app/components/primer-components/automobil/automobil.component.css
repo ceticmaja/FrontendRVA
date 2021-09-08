@@ -1,8 +1,3 @@
-h1 {
-    color: red;
-    font-size: 40px;
-}
-
 .container {
     display: flex;
     flex-basis: column;
@@ -27,4 +22,3 @@ h1 {
     text-align: left;
     display: block;
 }
-
