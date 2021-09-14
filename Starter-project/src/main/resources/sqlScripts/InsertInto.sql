@@ -1,7 +1,7 @@
 --Test data
 
 --PODACI NACIONALNOST
-select * from nacionalnost;
+--select * from nacionalnost;
 
 INSERT INTO "nacionalnost"("id", "naziv", "skracenica")
 VALUES (NEXTVAL('nacionalnost_seq'), 'brazilska', 'BRA');
